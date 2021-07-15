@@ -41,7 +41,7 @@ namespace AgendaTelefonica
                         try
                         {
 
-                            Console.WriteLine("Escriba su opcion:");
+                            Console.WriteLine("Escriba su opción:");
                             
                             MENU = int.Parse(Console.ReadLine());
                             bandera = 1;
@@ -121,7 +121,7 @@ namespace AgendaTelefonica
                     if (re == false)
                     {
 
-                        Console.WriteLine("Opcion no valida");
+                        Console.WriteLine("Opcion no válida");
                     }
                 } while (re == false);
                 if (Opcion == "N" || Opcion == "n")
