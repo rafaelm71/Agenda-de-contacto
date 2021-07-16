@@ -6,3 +6,10 @@ Esta aplicación es una agenda de contacto nos permite: Registrar todos los dato
  	
 ## Requerimientos 
 Visual Studio
+
+## Compilar y ejecutar:
+- Abrir la solucion del proyecto en visual studio.
+- Darle a f5 o al botón verde para correr la aplicacion y compilarla.
+
+## Estrategia de ramas:
+GitHub Flow
