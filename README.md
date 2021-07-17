@@ -13,3 +13,5 @@ Visual Studio
 
 ## Estrategia de ramas:
 GitHub Flow
+
+Rafael David Malena 1075534
