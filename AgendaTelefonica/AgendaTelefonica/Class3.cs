@@ -21,7 +21,7 @@ namespace AgendaTelefonica
             {
                 Console.Clear();
                 Dui = "";
-                Console.WriteLine("Introduzca Dui: ");
+                Console.WriteLine("Introduzca cedula: ");
                 Dui = Console.ReadLine();
                 Dui = "Dui: " + Dui;
 

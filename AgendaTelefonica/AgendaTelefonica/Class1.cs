@@ -42,7 +42,7 @@ namespace AgendaTelefonica
                  //Validacion del dui para que asecte solo 8 digitos
                 do {
 
-                    Console.WriteLine("Digite número de Dui sin guiones:");
+                    Console.WriteLine("Digite número de cedula sin guiones:");
                     Dui = Console.ReadLine();
                     int Digitos = Dui.Length;
                     ree = (Digitos == 9);
