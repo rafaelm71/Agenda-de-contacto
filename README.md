@@ -15,3 +15,6 @@ Visual Studio
 GitHub Flow
 
 Rafael David Malena 1075534
+
+Video:
+https://drive.google.com/file/d/1Ik9UsmDP9wKZwBt1FuEEN_2vCgEKTf51/view?usp=sharing
