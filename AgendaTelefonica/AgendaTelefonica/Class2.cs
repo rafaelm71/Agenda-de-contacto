@@ -4,12 +4,18 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+
 namespace AgendaTelefonica
 {
+
+    [TestClass]
     class Class2
     {
         public static StreamReader LeerArchivo;
         public String DATOS;
+
+        [TestMethod]
         public void Mostrar()
         {
 
@@ -31,7 +37,7 @@ namespace AgendaTelefonica
             LeerArchivo.Close();
 
 
-
+            
 
 
         }

@@ -6,7 +6,7 @@ using System.Threading.Tasks;
 using System.IO;
 namespace AgendaTelefonica
 {
-    class Class3
+   public class Class3
     {
         public static StreamReader LeerArchivo;
         public string linea = "";

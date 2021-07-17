@@ -4,10 +4,15 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using System.IO;
+using Microsoft.VisualStudio.TestTools.UnitTesting;
+
 namespace AgendaTelefonica
 {
+   
     class Class1
     {
+        
+
 #region declarasion de variables
         public static StreamReader LeerArchivo;
         public static StreamWriter EscribirArchivo;
@@ -27,7 +32,8 @@ namespace AgendaTelefonica
         //public int MENU;
         public bool re = false,ree=false;
         int Edad, Bandera, Telefono, CodigoPostal;
-#endregion
+        #endregion
+
         public void Ingresar()
         {
 

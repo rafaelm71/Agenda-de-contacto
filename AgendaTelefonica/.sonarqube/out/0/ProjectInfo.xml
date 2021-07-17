@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ProjectInfo xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/integration/2015/1">
+  <ProjectName>AgendaTelefonica</ProjectName>
+  <ProjectLanguage>C#</ProjectLanguage>
+  <ProjectType>Test</ProjectType>
+  <ProjectGuid>b3b2a093-1bad-4cec-87d5-f85dd3372e75</ProjectGuid>
+  <FullPath>D:\User\Documents\GitHub\Agenda-de-contacto\AgendaTelefonica\AgendaTelefonica\AgendaTelefonica.csproj</FullPath>
+  <IsExcluded>false</IsExcluded>
+  <AnalysisResults>
+    <AnalysisResult Id="FilesToAnalyze" Location="D:\User\Documents\GitHub\Agenda-de-contacto\AgendaTelefonica\.sonarqube\conf\0\FilesToAnalyze.txt" />
+  </AnalysisResults>
+  <AnalysisSettings>
+    <Property Name="sonar.cs.roslyn.reportFilePaths">D:\User\Documents\GitHub\Agenda-de-contacto\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe.RoslynCA.json|D:\User\Documents\GitHub\Agenda-de-contacto\AgendaTelefonica\AgendaTelefonica\bin\Debug\AgendaTelefonica.exe.RoslynCA.json</Property>
+    <Property Name="sonar.cs.analyzer.projectOutPaths">D:\User\Documents\GitHub\Agenda-de-contacto\AgendaTelefonica\.sonarqube\out\0</Property>
+  </AnalysisSettings>
+  <Configuration>Debug</Configuration>
+  <Platform>AnyCPU</Platform>
+</ProjectInfo>
